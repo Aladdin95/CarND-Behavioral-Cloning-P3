@@ -15,7 +15,6 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image2]: ./examples/placeholder.png "Grayscaling"
-[image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
 
 ## Rubric Points
@@ -105,7 +104,7 @@ To capture good driving behavior, I recorded two laps on track one using center 
 
 To augment the data sat, I also flipped images and angles thinking that this would generalize the model. For example, here is an image that has then been flipped:
 
-![alt text][image6]
+![alt text][image2]
 ![alt text][image7]
 
 
